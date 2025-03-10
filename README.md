@@ -15,5 +15,16 @@
 <h2>Funcionalidades</h2>
 <br>
 <p>- Layout responsivo que se adapta a diferentes tamanhos de tela (desktop, tablet e celular).</p>
+<p>- Seção informativa à esquerda com um título, descrição e um botão de call-to-action ("Get Started").</p>
+<p>- Seção de navegação à direita com links: **Home**, **Work**, **About**, **Contact**.</p>
+<p>- Imagem representando a proposta de compra via dispositivos móveis.</p>
+<br>
+<img src="https://github.com/alencarpereira/easy-shopping/blob/main/img/shopping.png?raw=true">
+<br>
+<h2> Como Usar</h2>
+<p>**Clone o repositório**:</p>
+<a></a>
+
+
 
 
