@@ -24,6 +24,8 @@
 <h2> Como Usar</h2>
 <p>   ```bash </p>
 <p> git clone https://github.com/alencarpereira/easy-shopping.git</p>
+<br>
+<p> <a href="https://alencarpereira.github.io/easy-shopping/">Visite o site</a> </p>
 
 
 
