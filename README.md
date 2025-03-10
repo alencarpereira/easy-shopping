@@ -22,8 +22,7 @@
 <img src="https://github.com/alencarpereira/easy-shopping/blob/main/img/shopping.png?raw=true">
 <br>
 <h2> Como Usar</h2>
-<p>**Clone o repositório**:</p>
-<a></a>
+<a href="https://github.com/alencarpereira/easy-shopping">*Clone o repositório**</a>
 
 
 
