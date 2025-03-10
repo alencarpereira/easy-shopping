@@ -1,4 +1,4 @@
-<h1>Easy Shopping Via Mobile</h1>
+<h1 align="center">Easy Shopping Via Mobile</h1>
 <br>
 <br>
 <h2>Esse é um projeto que eu aprendi no <a  href="htpps;//rodolfomori.com.br/devclub" >DevClub</a> </h2>
@@ -19,10 +19,11 @@
 <p>- Seção de navegação à direita com links: **Home**, **Work**, **About**, **Contact**.</p>
 <p>- Imagem representando a proposta de compra via dispositivos móveis.</p>
 <br>
-<img src="https://github.com/alencarpereira/easy-shopping/blob/main/img/shopping.png?raw=true">
+<img  src="https://github.com/alencarpereira/easy-shopping/blob/main/img/shopping.png?raw=true" align="center">
 <br>
 <h2> Como Usar</h2>
-<a href="https://github.com/alencarpereira/easy-shopping">*Clone o repositório**</a>
+<p>   ```bash </p>
+<p> git clone https://github.com/alencarpereira/easy-shopping.git</p>
 
 
 
