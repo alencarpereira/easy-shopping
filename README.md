@@ -5,9 +5,15 @@
 <br>
 <br>
 <p>O **Easy Shopping Via Mobile** é uma página inicial responsiva que visa oferecer uma experiência simples e direta de compras móveis. Com um design limpo e moderno, o site é otimizado para dispositivos móveis, garantindo uma navegação fluida e acessível.</p>
+<h2>Tecnologia utilizadas</h2>
+<br>
+<p><img 	src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html logo">     Estrutura do conteúdo da página.</p>
+<p> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css logo" /> Estilização da página, com foco na responsividade usando media queries.</p>
 
 <img src="https://github.com/alencarpereira/easy-shopping/blob/main/img/easy.png?raw=true" />
-<p><img 	src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">     Estrutura do conteúdo da página.</p>
-<p><img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> Estilização da página, com foco na responsividade usando media queries.</p>
+
+<h2>Funcionalidades</h2>
+<br>
+<p>- Layout responsivo que se adapta a diferentes tamanhos de tela (desktop, tablet e celular).</p>
 
 
