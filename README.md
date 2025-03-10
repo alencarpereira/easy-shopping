@@ -8,5 +8,6 @@
 
 <img src="https://github.com/alencarpereira/easy-shopping/blob/main/img/easy.png?raw=true" />
 <p><img 	src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">     Estrutura do conteúdo da página.</p>
+<p> <img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> Estilização da página, com foco na responsividade usando media queries.</p>
 
 
