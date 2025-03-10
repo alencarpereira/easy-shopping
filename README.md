@@ -22,8 +22,11 @@
 <img  src="https://github.com/alencarpereira/easy-shopping/blob/main/img/shopping.png?raw=true" align="center">
 <br>
 <h2> Como Usar</h2>
+<p>Para começar a usar o **Easy Shopping**, basta seguir os passos abaixo:</p>
+<p>Primeiro, você precisa clonar o repositório para o seu computador. Para isso, abra o terminal e execute o seguinte comando:</p>
 <p>   ```bash </p>
 <p> git clone https://github.com/alencarpereira/easy-shopping.git</p>
+
 <br>
 <p> <a href="https://alencarpereira.github.io/easy-shopping/">Visite o site</a> </p>
 
