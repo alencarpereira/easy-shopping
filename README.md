@@ -12,7 +12,7 @@
 
 <img src="https://github.com/alencarpereira/easy-shopping/blob/main/img/easy.png?raw=true" />
 
-<h2>Funcionalidades</h2>
+<h2>🚀 Funcionalidades</h2>
 <br>
 <p>- Layout responsivo que se adapta a diferentes tamanhos de tela (desktop, tablet e celular).</p>
 <p>- Seção informativa à esquerda com um título, descrição e um botão de call-to-action ("Get Started").</p>
