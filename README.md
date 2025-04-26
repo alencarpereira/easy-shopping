@@ -10,7 +10,7 @@
 <p><img 	src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html logo">     Estrutura do conteúdo da página.</p>
 <p> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css logo" /> Estilização da página, com foco na responsividade usando media queries.</p>
 
-<img src="https://github.com/alencarpereira/easy-shopping/blob/main/img/easy.png?raw=true" />
+<img src="https://github.com/alencarpereira/easy-shopping/blob/main/img/m-celular2.png?raw=true" />
 
 <h2>🚀 Funcionalidades</h2>
 <br>
