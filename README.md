@@ -19,7 +19,7 @@
 <p>- Seção de navegação à direita com links: **Home**, **Work**, **About**, **Contact**.</p>
 <p>- Imagem representando a proposta de compra via dispositivos móveis.</p>
 <br>
-<img  src="https://github.com/alencarpereira/easy-shopping/blob/main/img/shopping.png?raw=true" align="center">
+<img  src="https://github.com/alencarpereira/easy-shopping/blob/main/img/shopping%20(2).png?raw=true">
 <br>
 <h2> ⚙️ Como Rodar o Projeto</h2>
 <p>Primeiro, você precisa clonar o repositório para o seu computador. Para isso, abra o terminal e execute o seguinte comando:</p>
