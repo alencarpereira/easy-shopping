@@ -9,11 +9,14 @@
 <br>
 <p><img 	src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html logo">     Estrutura do conteúdo da página.</p>
 <p> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css logo" /> Estilização da página, com foco na responsividade usando media queries.</p>
-
+<br>
+<br>
 <p align="center" >
 <img src="https://github.com/alencarpereira/easy-shopping/blob/main/img/m-celular2.png?raw=true"   height="500px"/>
 <img  src="https://github.com/alencarpereira/easy-shopping/blob/main/img/shopping%20(2).png?raw=true" height="500px">
 </p>
+<br>
+<br>
 <h2>🚀 Funcionalidades</h2>
 <br>
 <p>- Layout responsivo que se adapta a diferentes tamanhos de tela (desktop, tablet e celular).</p>
@@ -21,7 +24,6 @@
 <p>- Seção de navegação à direita com links: **Home**, **Work**, **About**, **Contact**.</p>
 <p>- Imagem representando a proposta de compra via dispositivos móveis.</p>
 <br>
-
 <br>
 <h2> ⚙️ Como Rodar o Projeto</h2>
 
